@@ -4,9 +4,9 @@ g) SO32- 			h) SO42- 			i) CO32-
 j) PO43- 			k) HSO4- 			l) H2PO4- 
 m) HPO42- 			n) ClO2- 			o) ClO3- 
 p) ClO- 			q) O22- 			r) N3- 
-s) H-				t) P3-				u)Cu2+
-v)Co2+			w) Zn2+			x) Ag+
-y) Pb2+			z) SCN-			aa)ClO4-
+s) H-				t) P3-				u) Cu2+
+v) Co2+			w) Zn2+			x) Ag+
+y) Pb2+			z) SCN-			aa) ClO4-
 ab) MnO4-			ac) CH3COO-		ad) CrO42-
 ae) Cr2O72-			af) O22-			ag) Mn2+
 end
